@@ -1,6 +1,5 @@
 import React from 'react'
 import '../styling/events.scss'
-import Timeline from './timeline'
 
 function Events() {
   return (
