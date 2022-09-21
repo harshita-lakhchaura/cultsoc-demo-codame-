@@ -14,7 +14,7 @@ function Gallery() {
                 <div class="col-lg-4 col-sm-6 mb-4">
                         {/* gallery item 1*/}
                         <div class="gallery-item">
-                                <img class="img-fluid" src="../assets/teachers.jpg" alt="..."  height="250px" width="360px"/>
+                                <img class="img-fluid" src="../assets/teachers.jpg" alt="..."  height="250px" width="370px"/>
                             <div class="gallery-caption">
                                 <div class="gallery-caption-heading">Teachers' Day</div>
                                 <div class="gallery-caption-subheading text-muted">On the auspicious occasion of Teachers' Day, also named "Dronacharya day 2k22", teachers were honoured and appreciated</div>
@@ -41,6 +41,7 @@ function Gallery() {
                             </div>
                         </div>
                     </div>
+                    
                     </div>
             </div>
         </section>

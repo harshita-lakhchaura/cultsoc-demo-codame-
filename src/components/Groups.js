@@ -31,6 +31,13 @@ function Groups() {
                         <h2 class="my-3">Theatre</h2>
                         <p class="text-muted">You will get moved performance by the gifted actors of our institute</p>
                     </div>
+                    <div class="col-md-4">
+                        <span class="fa-stack fa-4x">
+                            <img src="../assets/literature.png" alt="dance" height="150px"></img>
+                        </span>
+                        <h2 class="my-3">Literature</h2>
+                        <p class="text-muted">Come and be amazed by the Shakespeare's of IIIT Bhopal</p>
+                    </div>
                 </div>
             </div>
         </section>
