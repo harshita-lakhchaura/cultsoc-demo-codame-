@@ -3,7 +3,8 @@ import '../styling/events.scss'
 
 function Events() {
   return (
-    <div className='event' id='event'>
+    <>
+    <section className='event' id='event'>
         <div className='container-event'>
             <div className='top-section'>
                 <h1>Events</h1>
@@ -13,7 +14,7 @@ function Events() {
                 <div className='line'></div>
                 <div className='section'>
                     <div className='bead'></div>
-                    <div className='content1'>
+                    <div className='content1' data-aos="fade-left">
                     <img class="rounded-circle img-fluid" src="../assets/teachers.jpg" alt="..."/>
                         <h2>Teachers' Day</h2>
                         <h3>5 September, 2022</h3>
@@ -27,7 +28,7 @@ function Events() {
                 </div>
                 <div className='section'>
                     <div className='bead'></div>
-                    <div className='content2'>
+                    <div className='content2' data-aos="fade-right">
                     <img class="rounded-circle img-fluid" src="../assets/masthead-bg.jpg" alt="..."/>
                         <h2>Independence Day</h2>
                         <h3>15 August, 2022</h3>
@@ -55,8 +56,8 @@ function Events() {
 
             </div>
         </div>
-    </div>
-
+    </section>
+    </>
   )
 }
 

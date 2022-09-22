@@ -1,0 +1,11 @@
+#footer{
+    padding: 1.5rem;
+    justify-content: space-between;
+}
+.icons{
+    margin-left: 15rem;
+    padding-right: 1.5rem;
+    & a{
+        padding: 1rem;
+    }
+}

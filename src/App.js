@@ -8,6 +8,7 @@ import Notice from './components/notice';
 import Events from './components/Events';
 import Team from './components/Team';
 import Contact from './components/Contact';
+import Footer from './components/Footer';
 
 function App() {
   return (<>
@@ -19,6 +20,7 @@ function App() {
   <Events/>
   <Team/>
   <Contact/>
+  <Footer/>
   </>
     
   );

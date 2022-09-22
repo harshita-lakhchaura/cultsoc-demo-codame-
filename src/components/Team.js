@@ -6,7 +6,7 @@ import TwitterIcon from '@mui/icons-material/Twitter';
 
 export default function Team() {
   return (
-    <div id="team">
+    <div>
         <section class="page-section " id="team">
             <div class="container">
                 <div class="text-center">

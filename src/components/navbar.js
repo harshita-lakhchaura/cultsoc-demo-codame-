@@ -14,19 +14,20 @@ export default function Navbar() {
   
   function move(id) {
     var tl = gsap.timeline();
-    tl.to("#bgBubble", {duration: 0.15, bottom: "-30px", ease: "ease-out"}, 0)
-      .to("#bubble1", {duration: 0.01, y: "0%", boxShadow: 'none', ease: "ease-out", opacity:0.7,border:"6px solid black",}, 0)
-      .to("#bubble2", {duration: 0.01, y: "0%", boxShadow: 'none', ease: "ease-out",opacity:0.7,border:"6px solid black",}, 0)
-      .to("#bubble3", {duration: 0.01, y: "0%", boxShadow: 'none', ease: "ease-out",opacity:0.7,border:"6px solid black",}, 0)
-      .to("#bubble4", {duration: 0.01, y: "0%", boxShadow: 'none', ease: "ease-out",opacity:0.7,border:"6px solid black",}, 0)
-      .to("#bubble5", {duration: 0.01, y: "0%", boxShadow: 'none', ease: "ease-out",opacity:0.7,border:"6px solid black",}, 0)
-      .to("#bubble6", {duration: 0.01, y: "0%", boxShadow: 'none', ease: "ease-out",opacity:0.7,border:"6px solid black",}, 0)
-      .to("#bubble7", {duration: 0.01, y: "0%", boxShadow: 'none', ease: "ease-out",opacity:0.7,border:"6px solid black",}, 0)
+    tl
+      .to("#bubble1", {duration: 0.01, y: "0%", boxShadow: 'none', ease: "ease-out", opacity:2,border:"6px solid black",}, 0)
+      .to("#bubble2", {duration: 0.01, y: "0%", boxShadow: 'none', ease: "ease-out",opacity:2,border:"6px solid black",}, 0)
+      .to("#bubble3", {duration: 0.01, y: "0%", boxShadow: 'none', ease: "ease-out",opacity:2,border:"6px solid black",}, 0)
+      .to("#bubble4", {duration: 0.01, y: "0%", boxShadow: 'none', ease: "ease-out",opacity:2,border:"6px solid black",}, 0)
+      .to("#bubble5", {duration: 0.01, y: "0%", boxShadow: 'none', ease: "ease-out",opacity:2,border:"6px solid black",}, 0)
+      .to("#bubble6", {duration: 0.01, y: "0%", boxShadow: 'none', ease: "ease-out",opacity:2,border:"6px solid black",}, 0)
+      .to("#bubble7", {duration: 0.01, y: "0%", boxShadow: 'none', ease: "ease-out",opacity:2,border:"6px solid black",}, 0)
       .to(".icon", {duration: 0.05, opacity: 1, ease: "ease-out",}, 0)
       .to("#bgBubble", {duration: 0.01, ease: "ease-in-out"}, 0.1)
-      .to(`#bubble${id}`, { border:"6px solid goldenrod",duration: 0.05, y: "10%", opacity: 1.4, ease: "ease-out"},  '-=0.1')
-      .to(`#bubble${id}> span`, {duration: 0.05,  y: "0%", opacity: 1.4, ease: "ease-out"}, '-=0.1')
+      .to(`#bubble${id}`, { border:"6px solid goldenrod",duration: 0.05, y: "10%", opacity: 2, ease: "ease-out"},  '-=0.1')
+      .to(`#bubble${id}> span`, {duration: 0.05,  y: "0%", opacity: 2, ease: "ease-out"}, '-=0.1')
   }
+  
 
   return (<>
   <div className='navbar navbar-dark fixed-top'>
