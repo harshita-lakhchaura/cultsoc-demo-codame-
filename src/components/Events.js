@@ -18,18 +18,18 @@ function Events() {
                     <img class="rounded-circle img-fluid" src="../assets/teachers.jpg" alt="..."/>
                         <h2>Teachers' Day</h2>
                         <h3>5 September, 2022</h3>
-                        <p>On the auspicious occasion of Teachers Day also named "Dronacharya day 2k22", techers were honoured and 
-                            appreciated for their consistent hard work for betterment of student's future.Event started with lamp lighting and geeting techers with bouquet. Student 
+                        <p>On the auspicious occasion of Teachers Day also named "Dronacharya day 2k22", teachers were honoured and 
+                            appreciated for their consistent hard work for betterment of student's future.Event started with lamp lighting and greeting teachers with bouquets. Student 
                             council members took the oath to work for the betterment of the institute. Our director Prof N.S Raghuwanshi sir was invited up on the stage to share his 
                             inspiring words with everyone. The oath was followed by a cultural programme prepared by the students which included the choir of 2nd and 3rd year and also 
                             had graceful dance of the students. To refresh their childhood memories, teachers were made to play interesting games where winners got the prize. Games were 
-                            followed by a cake cutting ceremony where all the honourable teachers were made to celebrate trachers day by cutting cake.</p>
+                            followed by a cake cutting ceremony where all the honourable teachers were made to celebrate teachers day by cutting cake.</p>
                     </div>
                 </div>
                 <div className='section'>
                     <div className='bead'></div>
                     <div className='content2' data-aos="fade-right">
-                    <img class="rounded-circle img-fluid" src="../assets/masthead-bg.jpg" alt="..."/>
+                    <img class="rounded-circle img-fluid" src="../assets/event1.jpeg" alt="..."/>
                         <h2>Independence Day</h2>
                         <h3>15 August, 2022</h3>
                         <p>
