@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/cultsoc_demo/static/css/main.123d38fb.css",
+    "main.js": "/cultsoc_demo/static/js/main.93a54d7a.js",
+    "static/media/imgt4.jpg": "/cultsoc_demo/static/media/imgt4.926a20a9c0c8dd32206b.jpg",
+    "static/media/imgt7.jpg": "/cultsoc_demo/static/media/imgt7.701abc650cd08b315f85.jpg",
+    "static/media/imgt5.jpg": "/cultsoc_demo/static/media/imgt5.b595a0622b012c881ad3.jpg",
+    "static/media/imgt2.jpg": "/cultsoc_demo/static/media/imgt2.38c360df472e93ba9bd6.jpg",
+    "static/media/imgt1.jpg": "/cultsoc_demo/static/media/imgt1.5603815a44ec0a760875.jpg",
+    "static/media/imgt3.jpg": "/cultsoc_demo/static/media/imgt3.8f617128919a644828bb.jpg",
+    "static/media/imgt6.jpg": "/cultsoc_demo/static/media/imgt6.f3bd75bd79dc174289ef.jpg",
+    "static/media/masthead-bg.JPG": "/cultsoc_demo/static/media/masthead-bg.06065f1bdb85bc6dfd0c.JPG",
+    "static/media/imgt8.JPG": "/cultsoc_demo/static/media/imgt8.912d061f6efe35fceb85.JPG",
+    "static/media/imgt12.JPG": "/cultsoc_demo/static/media/imgt12.1e2d34c70a42ac706e99.JPG",
+    "static/media/imgt7.JPG": "/cultsoc_demo/static/media/imgt7.45fe1167c875a748b6ff.JPG",
+    "static/media/imgt5.JPG": "/cultsoc_demo/static/media/imgt5.dbd383f673f5f73b25db.JPG",
+    "static/media/imgt3.JPG": "/cultsoc_demo/static/media/imgt3.7743905cf4746c9ffe88.JPG",
+    "static/media/imgt4.JPG": "/cultsoc_demo/static/media/imgt4.fd11043b3a79e7e6a43f.JPG",
+    "static/media/imgt1.JPG": "/cultsoc_demo/static/media/imgt1.1b15768bbbb82552bf48.JPG",
+    "static/media/imgt2.JPG": "/cultsoc_demo/static/media/imgt2.9e6b240b4b656ddd2c86.JPG",
+    "static/media/imgt11.JPG": "/cultsoc_demo/static/media/imgt11.926f9601c6179a5ff363.JPG",
+    "static/media/imgt10.JPG": "/cultsoc_demo/static/media/imgt10.662e9c15ab368762d5bd.JPG",
+    "static/media/imgt0.JPG": "/cultsoc_demo/static/media/imgt0.0c8a734043e4ef801760.JPG",
+    "static/media/imgt8.jpg": "/cultsoc_demo/static/media/imgt8.dc040ba03a5e7e7f34eb.jpg",
+    "static/media/imgt9.jpg": "/cultsoc_demo/static/media/imgt9.05d4c5fd0a8d49840017.jpg",
+    "static/media/imgt9.JPG": "/cultsoc_demo/static/media/imgt9.215f47b25d3c16405e08.JPG",
+    "static/media/imgt6.JPG": "/cultsoc_demo/static/media/imgt6.54c7e49d5c7d015faf1c.JPG",
+    "index.html": "/cultsoc_demo/index.html",
+    "main.123d38fb.css.map": "/cultsoc_demo/static/css/main.123d38fb.css.map",
+    "main.93a54d7a.js.map": "/cultsoc_demo/static/js/main.93a54d7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.123d38fb.css",
+    "static/js/main.93a54d7a.js"
+  ]
+}
