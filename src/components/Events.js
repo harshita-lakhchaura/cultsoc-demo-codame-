@@ -5,7 +5,7 @@ function Events() {
   return (
     <>
     <section className='event' id='event'>
-        <div className='container-event'>
+        <div className='container-event' data-aos="fade-up" data-aos-delay="200" data-aos-once="true">
             <div className='top-section'>
                 <h1>Events</h1>
                 <p>A summary of successful events conducted by Cultural Society of IIIT Bhopal</p>

@@ -8,7 +8,7 @@ export default function Team() {
   return (
     <div>
         <section class="page-section " id="team">
-            <div class="container">
+            <div class="container" data-aos="fade-up" data-aos-delay="200" data-aos-once="true">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Our Crew</h2>
                     <h3 class="section-subheading text-muted">Let's introduce you to the hardworking and brilliant team working day and night behind the progress of Cult-Soc</h3>

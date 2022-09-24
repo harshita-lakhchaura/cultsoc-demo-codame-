@@ -4,7 +4,7 @@ import '../styling/contact.scss'
 export default function Contact() {
   return (
     <div>
-      <section id='contact'>
+      <section id='contact' data-aos="fade-up" data-aos-delay="200" data-aos-once="true">
         <div className='top-section-contact'>
           <h1>Contact Us</h1>
           <p>We would love to hear from you</p>

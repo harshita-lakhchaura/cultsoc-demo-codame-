@@ -4,7 +4,7 @@ function Groups() {
   return (
     <>
     <section class="page-section" id="groups">
-            <div class="container">
+            <div class="container" data-aos="fade-up" data-aos-delay="200" data-aos-once="true">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Groups</h2>
                     <h3 class="section-subheading text-muted">The subsets of our society</h3>

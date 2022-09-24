@@ -5,6 +5,27 @@
     padding-left: var(--bs-gutter-x, 0.75rem);
     margin-right: auto;
     margin-left: auto;
+    // animation: translateX 3s 1;
+  }
+  .contanier::before,
+  .container::after{
+    position:absolute;
+    display: block;
+    content:'';
+    height: 1rem;
+    width:1rem;
+    border-radius: 50%;
+    // background-color: black;
+    left:50%;
+    transform: translateX(-50%);
+  }
+  @keyframes translateX {
+    0% {
+      transform: translateX(-5rem);
+    }
+    100% {
+      transform: translateX(5rem);
+    }
   }
   .my-3 {
     margin-top: 1rem !important;

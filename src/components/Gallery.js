@@ -10,7 +10,7 @@ function Gallery() {
         <>
             {/* <Gallery_Teachers /> */}
             <section class="page-section bg-dark" id="gallery">
-                <div class="container">
+                <div class="container" data-aos="fade-up" data-aos-delay="200" data-aos-once="true">
                     <div class="text-center">
                         <h2 class="section-heading text-uppercase">Gallery</h2>
                         <h3 class="section-subheading text-muted">A glimpse of the culture here at IIIT Bhopal</h3>
