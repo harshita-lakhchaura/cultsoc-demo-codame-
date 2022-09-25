@@ -19,21 +19,22 @@ function Gallery() {
                         <div class="col-lg-4 col-sm-6 mb-4">
                             {/* gallery item 1*/}
                             <div class="gallery-item">
-                                    <Link to={'/gallery_teachers'}><img class="img-fluid" id="img" src="../assets/teachers.jpg" alt="..." height="250px" width="370px" /></Link>
+                                    <Link to={'/gallery_teachers'} style={{color:'black',textDecoration:'none'}}><img class="img-fluid" id="img" src="../assets/teachers.jpg" alt="..." height="250px" width="370px" />
                                 <div class="gallery-caption">
                                     <div class="gallery-caption-heading">Teachers' Day</div>
                                     <div class="gallery-caption-subheading text-muted">On the auspicious occasion of Teachers' Day, also named "Dronacharya day 2k22", teachers were honoured and appreciated</div>
-                                </div>
+                                </div></Link>
                             </div>
                         </div>
                         <div class="col-lg-4 col-sm-6 mb-4">
                             {/* gallery item 2*/}
                             <div class="gallery-item">
-                            <Link to={'/gallery_independence'}><img class="img-fluid" id="img" src="../assets/event1.jpeg" alt="..." height="250px" /></Link>
+                            <Link to={'/gallery_independence'} style={{color:'black',textDecoration:'none'}}><img class="img-fluid" id="img" src="../assets/event1.jpeg" alt="..." height="250px" />
                                 <div class="gallery-caption">
                                     <div class="gallery-caption-heading">Independence Day</div>
                                     <div class="gallery-caption-subheading text-muted">Azadi ka Amrit Mahotsav was celebrated with great pomp and show by IIIT Bhopal in collaboration with MANIT Bhopal</div>
                                 </div>
+                                </Link>
                             </div>
                         </div>
                         <div class="col-lg-4 col-sm-6 mb-4">
