@@ -1,4 +1,5 @@
-#Cultsoc Demo (Assessment for Codame)
+# Cultsoc Demo (Assessment for Codame)
+
 https://cultsoc-demo.netlify.app/
 
 Explore the cultural club of IIIT Bhopal by reading about various groups and events and also catch a glimpse of wonderful performances by clicking on the div and exploring the gallery. 
