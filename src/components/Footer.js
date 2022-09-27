@@ -10,7 +10,7 @@ function Footer() {
         <div class="footer py-4">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-lg-4">Copyright &copy; Your Website 2022</div>
+                    <div class="footer">Copyright &copy; Your Website 2022</div>
                     <div class="icons">
                             <a class="btn btn-dark btn-social mx-2" href="#!" ><LinkedInIcon fontSize="large"/></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!" ><InstagramIcon fontSize="large"/></a>

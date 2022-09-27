@@ -19,9 +19,9 @@ export default function Team() {
                             <img class="mx-auto rounded-circle" src="../assets/girl.png" alt="..." />
                             <h4>Akansha Parihar</h4>
                             <p class="text-muted">Cult-Soc Head </p>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand Twitter Profile"><LinkedInIcon/></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand Facebook Profile"><InstagramIcon/></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand LinkedIn Profile"><TwitterIcon/></a>
+                            <a class="btn btn-dark btn-social mx-2" href="#!" ><LinkedInIcon/></a>
+                            <a class="btn btn-dark btn-social mx-2" href="#!" ><InstagramIcon/></a>
+                            <a class="btn btn-dark btn-social mx-2" href="#!" ><TwitterIcon/></a>
                         </div>
                     </div>
                     <div class="col-lg-4">
@@ -29,9 +29,9 @@ export default function Team() {
                             <img class="mx-auto rounded-circle" src="../assets/boy.png" alt="..." />
                             <h4>Tushar Gupta</h4>
                             <p class="text-muted">Cult-Soc Head and Singing Coordinator</p>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen Twitter Profile"><LinkedInIcon/></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen Facebook Profile"><InstagramIcon/></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen LinkedIn Profile"><TwitterIcon/></a>
+                            <a class="btn btn-dark btn-social mx-2" href="#!" ><LinkedInIcon/></a>
+                            <a class="btn btn-dark btn-social mx-2" href="#!" ><InstagramIcon/></a>
+                            <a class="btn btn-dark btn-social mx-2" href="#!" ><TwitterIcon/></a>
                         </div>
                     </div>
                     <div class="col-lg-4">
@@ -39,9 +39,9 @@ export default function Team() {
                             <img class="mx-auto rounded-circle" src="../assets/boy.png" alt="..." />
                             <h4>Siddhant Verma </h4>
                             <p class="text-muted">Dancing Head</p>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Twitter Profile"><LinkedInIcon/></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Facebook Profile"><InstagramIcon/></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker LinkedIn Profile"><TwitterIcon/></a>
+                            <a class="btn btn-dark btn-social mx-2" href="#!" ><LinkedInIcon/></a>
+                            <a class="btn btn-dark btn-social mx-2" href="#!" ><InstagramIcon/></a>
+                            <a class="btn btn-dark btn-social mx-2" href="#!" ><TwitterIcon/></a>
                         </div>
                     </div>
                     <div class="col-lg-4">
@@ -49,9 +49,9 @@ export default function Team() {
                             <img class="mx-auto rounded-circle" src="../assets/girl.png" alt="..." />
                             <h4>Sanskriti Saraswat </h4>
                             <p class="text-muted">Dancing Head</p>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Twitter Profile"><LinkedInIcon/></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Facebook Profile"><InstagramIcon/></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker LinkedIn Profile"><TwitterIcon/></a>
+                            <a class="btn btn-dark btn-social mx-2" href="#!" ><LinkedInIcon/></a>
+                            <a class="btn btn-dark btn-social mx-2" href="#!" ><InstagramIcon/></a>
+                            <a class="btn btn-dark btn-social mx-2" href="#!" ><TwitterIcon/></a>
                         </div>
                     </div>
                     <div class="col-lg-4">
@@ -59,9 +59,9 @@ export default function Team() {
                             <img class="mx-auto rounded-circle" src="../assets/boy.png" alt="..." />
                             <h4>Tanmay Chauhan </h4>
                             <p class="text-muted">Literature Head</p>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Twitter Profile"><LinkedInIcon/></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Facebook Profile"><InstagramIcon/></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker LinkedIn Profile"><TwitterIcon/></a>
+                            <a class="btn btn-dark btn-social mx-2" href="#!" ><LinkedInIcon/></a>
+                            <a class="btn btn-dark btn-social mx-2" href="#!" ><InstagramIcon/></a>
+                            <a class="btn btn-dark btn-social mx-2" href="#!" ><TwitterIcon/></a>
                         </div>
                     </div>
                     <div class="col-lg-4">
@@ -69,9 +69,9 @@ export default function Team() {
                             <img class="mx-auto rounded-circle" src="../assets/boy.png" alt="..." />
                             <h4>Himanshu Kumar </h4>
                             <p class="text-muted">Drama Head</p>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Twitter Profile"><LinkedInIcon/></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Facebook Profile"><InstagramIcon/></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker LinkedIn Profile"><TwitterIcon/></a>
+                            <a class="btn btn-dark btn-social mx-2" href="#!" ><LinkedInIcon/></a>
+                            <a class="btn btn-dark btn-social mx-2" href="#!" ><InstagramIcon/></a>
+                            <a class="btn btn-dark btn-social mx-2" href="#!" ><TwitterIcon/></a>
                         </div>
                     </div>
                 </div>

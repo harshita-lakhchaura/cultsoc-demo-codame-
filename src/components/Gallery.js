@@ -39,8 +39,8 @@ function Gallery() {
                         </div>
                         <div class="col-lg-4 col-sm-6 mb-4">
                             {/*  gallery item 3*/}
-                            <div class="gallery-item">
-                                <img class="img-fluid" id="img" src="../assets/soon2.gif" alt="..." height="250px" />
+                            <div class="gallery-item" style={{height:'29rem'}}>
+                                <img class="img-fluid" id="img" src="../assets/soon2.gif" alt="..." height="350px"/>
                                 <div class="gallery-caption">
                                     <div class="gallery-caption-heading">Event 3</div>
                                     <div class="gallery-caption-subheading text-muted"></div>

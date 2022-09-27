@@ -4,13 +4,13 @@
 .row{
     display: flex;
     flex-direction: row;
-    margin-left:-2rem;
-    margin-right:-2rem;
+    align-items: center;
+    justify-content: center;
 }
 
 .gallery-item {
-    max-width: 23rem;
-    padding-left:1.3rem;
+    max-width: 25rem;
+    padding-left:5%;
     cursor: pointer;
   }
   .gallery-item .gallery-caption {
@@ -22,7 +22,6 @@
     font-size: 1.5rem;
     font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
     font-weight: 700;
-    margin-bottom: 0;
   }
  .gallery-item .gallery-caption .gallery-caption-subheading {
     font-style: italic;
