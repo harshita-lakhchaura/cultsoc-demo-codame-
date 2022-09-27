@@ -9,7 +9,7 @@
 }
 .top-section-contact{
     text-align: center;
-    max-width:600px;
+    max-width:40rem;
     padding:4rem 0;
     margin:0 auto;
     font-size: 1.5rem;
@@ -24,19 +24,20 @@
 }
 .forms{
     margin-top: -3rem;
-    margin-left: 4rem;
+    margin-left: 4%;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     & input{
         margin-top: 2rem;
         padding: 1.7rem;
-        width:35rem;
+        width:80%;
     }
     .message{
+        flex-direction: column;
         margin-top: 2rem;
         margin-right: 5rem;
-        width: 85rem;
+        width: 40%;
     }
 }
 .submit{

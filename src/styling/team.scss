@@ -5,8 +5,9 @@
     margin-bottom: 3rem;
     text-align: center;
     padding-right:3.5rem;
-    padding-left:3.5rem;
-    margin-left:5%;
+    width:90%;
+    padding-bottom: 20%;
+    // margin-left:5%;
   }
   .team-member img {
     width: 14rem;
@@ -21,3 +22,6 @@
     display: flex;
     flex-wrap: wrap;
   } 
+  #subheading{
+    font-size: 90%;
+  }

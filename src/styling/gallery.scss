@@ -4,13 +4,16 @@
 .row{
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
 }
 
 .gallery-item {
     max-width: 25rem;
-    padding-left:5%;
+    padding-left:0;
+    padding-top: 5%;
+    padding-right: 5%;
     cursor: pointer;
   }
   .gallery-item .gallery-caption {

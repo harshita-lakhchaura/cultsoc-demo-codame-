@@ -15,3 +15,14 @@ code {
 html{
   scroll-behavior: smooth;
 }
+@media(max-width:998px) {
+  html {
+    font-size: 60%;
+  }
+}
+
+@media(max-width:768px) {
+  html {
+    font-size: 50%;
+  }
+}
